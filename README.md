@@ -14,7 +14,7 @@ The highlights are:
 - Printing supported by default (A4 page or PDF)
 - Customize the slide styles adding your CSS rules
 
-[See the DEMO PAGE](https://cdn.rawgit.com/zosma180/liquid/master/index.html)
+[See the DEMO PAGE](https://zosma180.github.io/liquid/)
 
 ---
 
